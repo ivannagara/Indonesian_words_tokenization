@@ -1,2 +1,2 @@
 # Indonesian_words_tokenization
-Tokenize words obtained from Indonesian books
+Words tokenization practice, obtained from Indonesian books.
